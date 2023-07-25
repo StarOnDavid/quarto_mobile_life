@@ -1,0 +1,36 @@
+---
+title: "Bau Material"
+author: "David"
+date: "2023-07-24"
+categories: [foren]
+---
+
+Material zum bauen braucht man auch.
+
+<!--
+add a link with: '[](){target="_blank"}'
+-->
+
+## Material Optionen
+
+### Heizung
+
+#### Standheizung
+- [Webasto - Thermo Top Evo](https://www.webasto-comfort.com/de-de/produktuebersicht/product/show/thermo-top-evo/){target="_blank"}
+- [Eberspaecher - Hydronic S3 Economy](https://www.eberspaecher-motorhomes.com/de/de/standheizungen/hydronic){target="_blank"}
+- [Autoterm Flow 5D](https://www.autoterm24.de/Binar_5S_12_Diesel){target="_blank"}
+
+#### Konvektoren
+- [Alde Konvektor, 400mm](https://www.campingwagner.de/product_info.php?info=p20186&utm_campaign=froogle_20186&utm_source=froogle&utm_medium=CPC&utm_content=textanzeige&campaign=froogle&gclid=CjwKCAjwh8mlBhB_EiwAsztdBJ7PCUDTQ7flblsO0BpkCIYtW53QHcAfoIPkV_9JsNsqG_PtPt42iBoCi2sQAvD_BwE){target="_blank"}
+
+### Bad
+
+#### Toilette
+- [Trenntoilette - kildwick.com](https://www.kildwick.com/de/shop/trenntoiletten/trenntoilette-bausatz){target="_blank"}
+- [Trenntoilette - www.meinetrenntoilette.de](https://www.meinetrenntoilette.de/collections/bausatz-trenntoilette){target="_blank"}
+
+
+
+## Material ausgewählt
+
+## Material bestellt

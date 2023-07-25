@@ -1,0 +1,15 @@
+/* css styles */
+
+.navbar {
+    width: 95%;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.page-columns.page-full {
+    margin-top: 10px;
+  }
+
+.quarto-title {
+    height: 70px;
+}

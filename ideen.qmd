@@ -1,0 +1,17 @@
+---
+title: "Ideen & Hacks"
+author: "David"
+date: "2023-07-24"
+categories: [foren]
+---
+
+Hier werden Bau-Ideen und Hacks gesammelt.
+
+<!--
+add a link with: '[](){target="_blank"}'
+-->
+
+## Bau-Ideen
+
+
+## Hacks

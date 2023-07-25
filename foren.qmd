@@ -1,0 +1,26 @@
+---
+title: "Foren & Ratgeber"
+author: "David"
+date: "2023-07-24"
+categories: [foren]
+---
+
+Hier werden Links zu Foren und interessanten Threads in diesen gesammelt.
+
+<!--
+add a link with: '[](){target="_blank"}'
+-->
+
+## Foren
+
+### [Forum für Camper-Selbstausbauer!](https://forum.camper-bauen.de)
+
+- [Selbstbau Wasserboiler](https://forum.camper-bauen.de/viewtopic.php?p=33728#p33728){target="_blank"}
+- [Beispiel Wasserkreis - Wasserheizung](https://forum.camper-bauen.de/viewtopic.php?t=246&hilit=fussbodenheizung&start=10#p13847){target="_blank"}
+
+
+## Ratgeber
+
+- [Die 7 besten Wohnmobil-Fußbodenheizungen 2023? - beyondcamping.de](https://www.beyondcamping.de/wohnmobil-fussbodenheizung/){target="_blank"}
+- [Wohnmobilheizungen: Welche Heizung für das Wohnmobil wählen? - womoo.de](https://womoo.de/ratgeber/heizung-fuers-wohnmobil/#wasserheizung){target="_blank"}
+- [So optimieren Sie die Heizleistung - promobil.de](https://www.promobil.de/tipps/wohnmobil-heizung-optimieren-warmwasser-fussboden/){target="_blank"}

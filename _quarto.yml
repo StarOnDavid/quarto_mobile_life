@@ -1,0 +1,32 @@
+project:
+  type: website
+
+website:
+  title: "Mobile Life"
+  navbar:
+    left:
+      - href: blog.qmd
+        text: Blog
+      - href: foren.qmd
+        text: Foren & Ratgeber
+      - href: ideen.qmd
+        text: Ideen & Hacks
+      - href: material.qmd
+        text: Bau Material
+      - href: utube.qmd
+        text: Youtube
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com
+      - icon: instagram
+        href: https://instagram.com
+format:
+  html:
+    theme: sketchy
+    css: styles.css
+
+
+
+

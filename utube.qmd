@@ -1,0 +1,21 @@
+---
+title: "Youtube"
+author: "David"
+date: "2023-07-24"
+categories: [foren]
+---
+<!--
+add a link with: 
+'[](){target="_blank"}'
+
+add video:
+{{< video https://www.youtube.com/embed/wo9vZccmqwc 
+    title='What is the CERN?' 
+>}}
+-->
+
+## Roomtouren 
+
+{{< video https://www.youtube.com/watch?v=EoJUuLuxLcY
+    title='Vorstellung WoMo (Tinyhaus) ROOMTOUR Mercedes LK 1524 mit OM366 LA Motor' 
+>}}
