@@ -29,6 +29,28 @@ add a link with: '[](){target="_blank"}'
 - [Trenntoilette - kildwick.com](https://www.kildwick.com/de/shop/trenntoiletten/trenntoilette-bausatz){target="_blank"}
 - [Trenntoilette - www.meinetrenntoilette.de](https://www.meinetrenntoilette.de/collections/bausatz-trenntoilette){target="_blank"}
 
+### Ausbau / Konstruktion
+
+#### Bett
+- [Bettkastenschanier mit Daempfer](https://www.manomano.de/p/vevor-bett-lift-springaufbeschlag-bett-aus-stahl-bettbeschlagschwarz-hydraulische-bett-lift-up-scharnier-60-kg-ladekapazitt-fr-schlafsofas-oder-betten-120-cm-61053220){target=_blank}
+
+### Technik
+
+#### Battriespeicher
+- [24V Sets - lifepo.shop](https://www.lifepo.shop/lifepo4-24v-akkus){target=_blank}
+- [24C BMSs - lifepo.shop](https://www.lifepo.shop/24v-bms){target=_blank}
+
+#### Solarpannels
+- [JA Solar 415Wp](https://www.photovoltaik4all.de/solarmodule/ja-solar-jam54s30-415-watt-bfr){target="_blank"}
+
+#### Laderegler Wechselrichter etc.
+- [Victron-EasySolar-24-1600-40-16-230V-MPPT](https://greenakku.de/Wechselrichter/Kombiwechselrichter/Victron-Easysolar-Kombigeraete/Victron-EasySolar-24-1600-40-16-230V-MPPT-100-50::1310.html){target="_blank"}
+
+oder
+ 
+- [BlueSolar-MPPT-100-30-Solarladeregler](https://greenakku.de/Ladegeraete/Solarladeregler/MPPT-Solarladeregler/BlueSolar-MPPT-100-30-Solarladeregler-12-24V-30A::613.html){target="_blank"}
+- [Victron-BluePower-IP22/BlueSmart-IP22-Ladegeraet-24](https://greenakku.de/Ladegeraete/Batterieladegeraete/Victron-BluePower-IP22/BlueSmart-IP22-Ladegeraet-24-16-1-Anschluss::720.html){target="_blank"}
+- [Victron Energy Phoenix Wechselrichter 24/2000 230V](https://greenakku.de/Wechselrichter/Wechselrichter/Victron-Energy-Phoenix-Wechselrichter-24-2000-230V-Smart::1930.html){target="_blank"}
 
 
 ## Material ausgewählt

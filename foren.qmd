@@ -17,6 +17,7 @@ add a link with: '[](){target="_blank"}'
 
 - [Selbstbau Wasserboiler](https://forum.camper-bauen.de/viewtopic.php?p=33728#p33728){target="_blank"}
 - [Beispiel Wasserkreis - Wasserheizung](https://forum.camper-bauen.de/viewtopic.php?t=246&hilit=fussbodenheizung&start=10#p13847){target="_blank"}
+- [Beispiel Wasserkreis mit FBH ](https://forum.camper-bauen.de/viewtopic.php?t=246&hilit=wasserheizung+rohr&start=120#p86570){target="_blank"}
 
 
 ## Ratgeber

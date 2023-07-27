@@ -15,3 +15,11 @@ add a link with: '[](){target="_blank"}'
 
 
 ## Hacks
+
+### Heizung
+
+#### Standheizung
+
+> **Komentar im Formum**
+> 
+> "Weiterhin eine Überlegung wert: schwingende Aufhängung der gesamten Heizung auf Gummielementen. Das war bei meiner Wasserheizung der lärmtechnische Quantensprung. "

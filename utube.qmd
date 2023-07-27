@@ -19,3 +19,9 @@ add video:
 {{< video https://www.youtube.com/watch?v=EoJUuLuxLcY
     title='Vorstellung WoMo (Tinyhaus) ROOMTOUR Mercedes LK 1524 mit OM366 LA Motor' 
 >}}
+
+## Technik
+
+{{< video  https://www.youtube.com/watch?v=TGonwa_OE4U 
+    title='Camper-Elektrik, DIY-Crashkurs. Teil 6: Ein Strom-System, das fast alles kann? Montagevideo'
+>}}
