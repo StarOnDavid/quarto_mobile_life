@@ -29,10 +29,25 @@ add a link with: '[](){target="_blank"}'
 - [Trenntoilette - kildwick.com](https://www.kildwick.com/de/shop/trenntoiletten/trenntoilette-bausatz){target="_blank"}
 - [Trenntoilette - www.meinetrenntoilette.de](https://www.meinetrenntoilette.de/collections/bausatz-trenntoilette){target="_blank"}
 
+#### Schiebewand Dusche
+- [Für die Decke - GooEquip 2 Stück Linearschiene SBR12 1000mm Linearlager-Gleitset mit 2 Linearführungswellen](https://www.amazon.de/GooEquip-Linearschiene-Linearlager-Gleitset-Linearf%C3%BChrungswellen-F%C3%BChrungsschienenset/dp/B08W1TL2F2/ref=d_pd_sbs_sccl_3_3/257-9456238-4591605?pd_rd_w=zXbDe&content-id=amzn1.sym.41628bd4-d899-4783-a506-d8de0d1214b9&pf_rd_p=41628bd4-d899-4783-a506-d8de0d1214b9&pf_rd_r=28JP5066WMBNX6ESVTNW&pd_rd_wg=zk9zJ&pd_rd_r=c657e8e8-be5b-4e68-8df4-dd8fec15f6ea&pd_rd_i=B08W1TL2F2&th=1){target="_blank"}
+
+### Küche
+- [Mini Spühlmaschienen aus Amazon](https://www.amazon.de/s?k=mini+sp%C3%BClmaschine){target="_blank"}
+
+- [Amica AKG 3840 E Kühl-/Gefrierkombination / Doppeltürer / 144(H) x 47,4(B) / Edelstahloptik ](https://www.amazon.de/Amica-AKG-3840-Gefrierkombination-Edelstahloptik/dp/B08QYSRYL6/ref=sr_1_3?keywords=k%C3%BChlschrank%2Bschmal&qid=1690634135&sr=8-3&th=1){target="_blank"}
+
 ### Ausbau / Konstruktion
 
 #### Bett
 - [Bettkastenschanier mit Daempfer](https://www.manomano.de/p/vevor-bett-lift-springaufbeschlag-bett-aus-stahl-bettbeschlagschwarz-hydraulische-bett-lift-up-scharnier-60-kg-ladekapazitt-fr-schlafsofas-oder-betten-120-cm-61053220){target=_blank}
+
+### Schiebetüren
+ Eventuell für Bad und oder den großen Schrank
+
+ - [Klapptür Schiebetürsystem Komplett-Set](https://www.amazon.de/dp/B0BPHQJHSL?ref_=cm_sw_r_apin_dp_YFY4Q2J1WBW3J7D06D8T){target=_blank}
+ - [ Schiebetürbeschlag Set Schiebetürsystem Schwarz komplettes Laufrollen und Schiene Set mit Bodenführung Holz schiebetürbeschlag ](https://www.amazon.de/dp/B07S4HSL7V?ref_=cm_sw_r_apin_dp_CWP9F13WDBRDY504BFMZ&th=1){target=_blank}
+ - [Schiebetürbeschlag Set Schiebetürsystem Laufschiene für Schiebetür Hängeschiene für Einzelne Holztür ](https://www.amazon.de/dp/B08XM92F57/ref=sspa_dk_detail_4?pd_rd_i=B08TBHNY3S&pd_rd_w=HvZBm&content-id=amzn1.sym.ae2317a0-2175-4285-af64-66539858231f&pf_rd_p=ae2317a0-2175-4285-af64-66539858231f&pf_rd_r=X4QDFJAXT3MH278N0CZB&pd_rd_wg=E5xLm&pd_rd_r=7f76f089-00c6-4fea-a34c-bc1281139e59&s=diy&sp_csd=d2lkZ2V0TmFtZT1zcF9kZXRhaWw&th=1){target=_blank}
 
 ### Technik
 
@@ -45,12 +60,33 @@ add a link with: '[](){target="_blank"}'
 
 #### Laderegler Wechselrichter etc.
 - [Victron-EasySolar-24-1600-40-16-230V-MPPT](https://greenakku.de/Wechselrichter/Kombiwechselrichter/Victron-Easysolar-Kombigeraete/Victron-EasySolar-24-1600-40-16-230V-MPPT-100-50::1310.html){target="_blank"}
+- [Victron - SmartShunt 500A/50mV](https://greenakku.de/Zubehoer/Batterie-Zubehoer/Messshunts/SmartShunt-500A-50mV::2783.html?cq_src=google_ads&cq_cmp=19743368784&cq_con=&cq_term=&cq_med=pla&cq_plac=&cq_net=x&cq_pos=&cq_plt=gp&gclid=CjwKCAjwlJimBhAsEiwA1hrp5i2Hzy94tqgBH1df4IyJtLFqQNKT_P60eRi94s2RVQJV_ZFl5xuYQhoCD-UQAvD_BwE){target="_blank"}
 
 oder
- 
+
 - [BlueSolar-MPPT-100-30-Solarladeregler](https://greenakku.de/Ladegeraete/Solarladeregler/MPPT-Solarladeregler/BlueSolar-MPPT-100-30-Solarladeregler-12-24V-30A::613.html){target="_blank"}
 - [Victron-BluePower-IP22/BlueSmart-IP22-Ladegeraet-24](https://greenakku.de/Ladegeraete/Batterieladegeraete/Victron-BluePower-IP22/BlueSmart-IP22-Ladegeraet-24-16-1-Anschluss::720.html){target="_blank"}
 - [Victron Energy Phoenix Wechselrichter 24/2000 230V](https://greenakku.de/Wechselrichter/Wechselrichter/Victron-Energy-Phoenix-Wechselrichter-24-2000-230V-Smart::1930.html){target="_blank"}
+
+#### Sonstiges Zentral Installation
+
+-[Offgridtec Batterietrennschalter 12V 24V 275A M10 Schraubanschluss ](https://www.offgridtec.com/offgridtec-batterietrennschalter-12v-24v-275a-m10-schraubanschluss.html){target="_blank"}
+
+#### Elektrik
+- [2X 65W PD 12V USB Steckdose für Laptop USB C Autoladebuchse Multi Port SteckH9V5](https://www.ebay.de/itm/314640918743?_trkparms=amclksrc%3DITM%26aid%3D1110006%26algo%3DHOMESPLICE.SIM%26ao%3D1%26asc%3D20200818143230%26meid%3Dd780e5309d9943d498fda701796cd0aa%26pid%3D101224%26rk%3D1%26rkt%3D5%26sd%3D185882024850%26itm%3D314640918743%26pmt%3D1%26noa%3D0%26pg%3D2047675%26algv%3DDefaultOrganicWebV9BertRefreshRanker&_trksid=p2047675.c101224.m-1&amdata=cksum%3A314640918743d780e5309d9943d498fda701796cd0aa%7Cenc%3AAQAIAAABACYezfbTAbL71Cn2zZypiqFkVFHChWGIs0xkdyquuPAu6f3GuLUYhFZZAfOkS8ulCPINzjVY6AZhKVPZBb87Ssuaf1dAiZg1UlvI9XI2KJk3rBbLQs2TcH7O2YCvKE3ShDXFyyH%252FsmR33obdO%252F56Y8VOAK9irSiElBZgbJ01zjV4ntif0bww%252FyeK9tMu8oi%252Bhm902t3GRaM5zW6o4P9LeVaqjADmZK5q6PQbzE3CxQ4g%252BaaqyB53nzIV7N7xq7x38dbGuR2xbRAUwqv%252BwDsoEzVK0om1ZoznAdXvJn7FkI4eY%252BRynMX1IA7l691dmGCQu2OHn3PQxZLWuNXAVOJCZI4%253D%7Campid%3APL_CLK%7Cclp%3A2047675){target="_blank"}
+
+##### Kabel
+- [Fahrzeugleitung Anhängerkabel Rund oder Flach Kabel rot/schwarz 2X 0,75 1,0 1,5 mm² 2-adrig 6-24 Volt KFZ Auto](https://www.amazon.de/Fahrzeugleitung-Anhängerkabel-schwarz-2-adrig-Rundkabel/dp/B0C3HGFB6T/ref=sr_1_77?keywords=5%2Badriges%2Bkabel&qid=1690712615&s=automotive&sr=1-77&th=1){target="_blank"}
+- [10m Lumonic 1m FLRYY Fahrzeugkabel 5 adrig I Fahrzeugleitung mit Kabelquerschnitt 5x 1,5mm² I Kabel Anhänger 5 polig, Anhängerkabel mehradrig ](https://www.amazon.de/FLRYY-Fahrzeugleitung-Kabel-Litze-Anh%C3%A4ngerkabel/dp/B081P22JF7/ref=sr_1_86_sspa?keywords=5+adriges+kabel&qid=1690712615&s=automotive&sr=1-86-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1){target="_blank"}
+- [1,0 mm² Rundkabel Fahrzeugkabel 7 adrig Fahrzeugleitung mit Kabelquerschnitt Kabel Anhänger KFZ PKW Boot 7 polig (METERWARE) 1 bis 50 Meter am Stück ](https://www.amazon.de/Rundkabel-Fahrzeugkabel-Fahrzeugleitung-Kabelquerschnitt-METERWARE/dp/B0C9DQ6RWL/ref=sr_1_101?keywords=5+adriges+kabel&qid=1690712876&s=automotive&sr=1-101){target="_blank"}
+
+#### Werkzeug
+- [Kabelschuhzangen auf amazon](https://www.amazon.de/s?k=kabelschuhzange&adgrpid=70590030705&hvadid=606627301611&hvdev=c&hvlocphy=9117606&hvnetw=g&hvqmt=e&hvrand=3974634748424636572&hvtargid=kwd-302160904697&hydadcr=8565_2288667&tag=googhydr08-21&ref=pd_sl_1lxa7ruzvz_e){target="_blank"}
+
+### Gastank
+- [Campko 30 liter Stahl Gastank - 14kg - 239 Euro](https://www.obelink.de/campko-30-liter-stahl-gastank.html?gclid=CjwKCAjwzo2mBhAUEiwAf7wjkqktmirnwaw_dbPx26X-yA__3GowX_SW4Vjfil_GNJIna9_zKtmmYhoCMmEQAvD_BwE){target="_blank"}
+- [Alugas Travelmate LPG 27L Gasflasche - 6,7kg - 239 Euro](https://www.obelink.de/alugas-travelmate-lpg-27l-gasflasche.html?gclid=CjwKCAjwzo2mBhAUEiwAf7wjkmuEe8yee3ym-o7SgXCrczqU4z8UZF9ZXzv9easwwo8QTJ9jJsnDfBoCjfwQAvD_BwE){target="_blank"}
+- [30 Liter Wohnmobil Gastank Camping Gas Tank Brenngastank 230X809 - 23kg - 429 Euro](https://biermeier-einzelhandel.de/30-liter-wohnmobil-gastank-camping-gas-tank-brenngastank-230x809/){target="_blank"}
 
 
 ## Material ausgewählt

@@ -22,6 +22,15 @@ add a link with: '[](){target="_blank"}'
 
 ## Ratgeber
 
+- [Wohnmobil-Zulassung: Pkw, Lkw oder Transporter ausbauen und als Wohnmobil zulassen - camperstyle.de](https://camperstyle.de/wohnmobil-zulassung-pkw-lkw-oder-transporter-ausbauen-und-als-wohnmobil-zulassen/){target="_blank"}
 - [Die 7 besten Wohnmobil-Fußbodenheizungen 2023? - beyondcamping.de](https://www.beyondcamping.de/wohnmobil-fussbodenheizung/){target="_blank"}
 - [Wohnmobilheizungen: Welche Heizung für das Wohnmobil wählen? - womoo.de](https://womoo.de/ratgeber/heizung-fuers-wohnmobil/#wasserheizung){target="_blank"}
 - [So optimieren Sie die Heizleistung - promobil.de](https://www.promobil.de/tipps/wohnmobil-heizung-optimieren-warmwasser-fussboden/){target="_blank"}
+
+## Blogs & co.
+- [LPG Gastank alle 10 Jahre zum TÜV - www.zuhause-im-wohnmobil.de](https://www.zuhause-im-wohnmobil.de/lpg-gastank-alle-10-jahre-zum-tuev/){target="_blank"}
+
+- [Die besten 4G und 5G Internet Router beim Camping](https://camper.help/internet-router-im-test/){target="_blank"}
+
+- [Victron Venus OS auf dem Raspberry Pi -Low Budget Energiemonitor](https://obenschlaefer.com/low-budget-energiemonitor-victron-venus-os-mit-raspberry-pi-obenschlaefer/#Zum_Schluss_8211_das_8222Meisterwerk8220_vollenden){target="_blank"}
+

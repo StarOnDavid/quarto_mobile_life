@@ -13,6 +13,22 @@ add a link with: '[](){target="_blank"}'
 
 ## Bau-Ideen
 
+### Smart-Home 
+
+- [Victron Venus OS auf dem Raspberry Pi -Low Budget Energiemonitor - obenschlaefer.com](https://obenschlaefer.com/low-budget-energiemonitor-victron-venus-os-mit-raspberry-pi-obenschlaefer/#Auch_wichtig_Der_Akku){target="_blank"}
+
+
+#### LED via WiFi
+- [node-red-contrib-magichome-controller](https://flows.nodered.org/node/node-red-contrib-magichome-controller){target="_blank"}
+- [Tasmota LED Beleuchtung mit Node-RED steuern](https://hoeser-medien.de/2019/10/led-beleuchtung-mit-node-red-steuern/){target="_blank"}
+- [](https://hoeser-medien.de/2019/10/led-beleuchtung-mit-node-red-steuern/){target="_blank"}
+
+#### LED via DMX
+- [High Power 24 Channel RGB 3A/CH DMX512 Controller Led Decoder Dimmer 500Hz Flicker Free Smoother Dimming DMX Signal Indicator Flashes Function DC 5V-24V](https://www.amazon.de/Channel-Controller-Smoother-Indicator-Function/dp/B0C7W99TM7/ref=sr_1_3_sspa?keywords=led%2Bdmx%2Bcontroller&qid=1690710658&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1){target="_blank"}
+- [12 Kanal DMX Decoder,DMX512 Decoder RGB LED Controller 60A PWM DMX512 Dimmertreiber für RGB LED Streifen,RGB LED Strips und LED Modullicht DC12V-24V ](https://www.amazon.de/12-Controller-Dimmertreiber-Modullicht-DC12V-24V/dp/B09M3TPDLN/ref=pd_day0fbt_img_sccl_1/257-9456238-4591605?pd_rd_w=LGIvj&content-id=amzn1.sym.a448a60d-171e-41b3-a693-2dc17f9728e0&pf_rd_p=a448a60d-171e-41b3-a693-2dc17f9728e0&pf_rd_r=ZKPCMPDVPBD4CXGCWWHM&pd_rd_wg=KbHeD&pd_rd_r=c5dbf931-7e07-4663-8002-e1320a8457b0&pd_rd_i=B09M3TPDLN&psc=1){target="_blank"}
+- [Milight 4-Zonen-Empfänger für RGB+CCT LED Streifen 432 Watt](https://www.ledpanelgrosshandel.de/dms-serie-led-empfanger.html?gclid=CjwKCAjwlJimBhAsEiwA1hrp5hn4DDHCySfS0rC5kJEPyk1pC-JtG4b6u8pSy2phX1NX5nuIFfH4XBoCQ_gQAvD_BwE){target="_blank"}
+- [node-red-contrib-udmx](https://flows.nodered.org/node/node-red-contrib-udmx/in/scz30QEcIpcS){target="_blank"}
+
 
 ## Hacks
 
